@@ -8,6 +8,8 @@ It includes:
 - Most popular names by year
 - Unique name counts and fada (accented) name usage
 
+  This data shows that  baby names in Ireland have steadily moved from the same traditional names in the 1960s, 70s and 80s to a more diverse selection of names. The number of unique names in 1964 was 268 which explodes to 989 by 2023 highilighting a growing cultural diversity but also a move away from the samaller pool of *"Christian"* names. 
+
 ---
 
 ## 📁 Dataset
@@ -68,5 +70,7 @@ Explore the makeup of name characteristics:
   - 📈 2018–2023: Rapid increase
     - 2018: 3,095 babies with fada names
     - 2023: 4,120 babies with fada names
+      
+  ## A follow up inquiry with the CSO confimed that this is an artefact of the system that was used to input data...
 
-These insights show a clear cultural shift and diversification in Irish baby naming practices.
+   *"From 01 January 2018 the CSO has captured the síneadh fada and other diacritics for the first time. This marks the beginning of new series of data. The inclusion of the síneadh fada and other diacritics has an impact     in the order of the popularity of some forenames. For example Sean (without the síneadh fada) has always been in the top 100 most popular names for boys. Seán with the síneadh fada is now included in the 2018 data          onwards and both spellings are treated as 2 separate names and thus it fell out of the top 100 in 2019. At the beginning of the collection process, names had to be manually inputted on a database from paper records.        This was a labour-intensive task and a decision was taken in 1998 to input names without síneadh fadas. When data became digitally available it was decided to continue as before, as any change would result in a break in    the series."*
